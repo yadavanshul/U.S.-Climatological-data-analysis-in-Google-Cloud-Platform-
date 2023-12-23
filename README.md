@@ -1,9 +1,8 @@
-# U.S.-Climatological-data-analysis-in-Google-Cloud-Platform-
-## CloudAnalyticsandDataWarehouse
+# CloudAnalyticsandDataWarehouse-Sem1Project
 
 
 ## Overview
-
+ 
 The main goal of this research is the analysis of local climate data in the United States from NOAA (National Oceanic and Atmospheric Administration). Understanding American weather trends over time, identifying areas with more noticeable effects of climate change, and helping California's utility companies deal with spikes in demand for electricity are the main objectives.
 
 ## File Structure
@@ -37,4 +36,9 @@ The "Queries Analysis" file contains:
 For inquiries or feedback, contact:
 
 - Anshul Yadav: anshul.yadav@sjsu.edu
+- Sakshi Jain: sakshi.jain1@sjsu.edu
+- Shreyasree Matta: shreyasree.matta@sjsu.edu
+- Vatsalyapooja Chintapalli: vatsalyapooja.chintapalli@sjsu.edu
+- Veenaramesh Beknal: veenaramesh.beknal@sjsu.edu
 
+Explore the project and leverage insights from the NOAA weather data!

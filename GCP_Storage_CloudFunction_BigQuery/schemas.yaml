@@ -1,0 +1,83 @@
+- name: table_1
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  schema: 
+    - name: "id"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "station_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "date"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "PRCP"
+      type: "FLOAT64"
+      mode: "NULLABLE"
+    - name: "SNOW"
+      type: "FLOAT64"
+      mode: "NULLABLE"
+    - name: "TAVG"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "TMAX"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "TMIN"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "country_code"
+      type: "STRING"
+      mode: "NULLABLE"
+
+- name: weather_data
+  size: large
+  format: CSV
+  columns: []
+  schema: 
+    - name: "int64_field_0"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "station_id"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "date"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "PRCP"
+      type: "FLOAT64"
+      mode: "NULLABLE"
+    - name: "SNOW"
+      type: "FLOAT64"
+      mode: "NULLABLE"
+    - name: "TAVG"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "TMAX"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "TMIN"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "country_code"
+      type: "STRING"
+      mode: "NULLABLE"
+      
+- name: california-data
+  size: large
+  format: CSV
+  columns: []
+  schema: 
+    - name: "string_field_0"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "string_field_1"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "string_field_2"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "string_field_3"
+      type: "STRING"
+      mode: "NULLABLE"
