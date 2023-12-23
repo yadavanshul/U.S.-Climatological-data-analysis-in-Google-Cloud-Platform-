@@ -37,9 +37,4 @@ The "Queries Analysis" file contains:
 For inquiries or feedback, contact:
 
 - Anshul Yadav: anshul.yadav@sjsu.edu
-- Sakshi Jain: sakshi.jain1@sjsu.edu
-- Shreyasree Matta: shreyasree.matta@sjsu.edu
-- Vatsalyapooja Chintapalli: vatsalyapooja.chintapalli@sjsu.edu
-- Veenaramesh Beknal: veenaramesh.beknal@sjsu.edu
 
-Explore the project and leverage insights from the NOAA weather data!
